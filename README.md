@@ -5,11 +5,11 @@
 
 🚀 **About Me:**
 
-- 🔭 Currently doing an **internship as a .NET developer**
-- 🌱 Learning and improving my skills in **C#, .NET, Linux, Docker**
-- 💡 Interested in **backend development, cloud technologies, and automation**
-- 👯 Open to collaborate on **real-world projects and open-source**
-- 📝 Planning to write articles on **.NET development and learning journey** *(coming soon)*
+-  Currently doing an **internship as a .NET developer**
+-  Learning and improving my skills in **C#, .NET, Linux, Docker**
+-  Interested in **backend development, cloud technologies, and automation**
+-  Open to collaborate on **real-world projects and open-source**
+-  Planning to write articles on **.NET development and learning journey** *(coming soon)*
 
 ---
 
