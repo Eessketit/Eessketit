@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoxruz</h1>
-<h3 align="center">Aspiring .NET Developer from Uzbekistan</h3>
+<h3 align="center">Intern .NET Developer from Uzbekistan</h3>
 
 ---
 
