@@ -26,7 +26,7 @@ coming soon...
 <a href="https://twitter.com/eessketitxd" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/shox" target="blank">
+<a href="[https://linkedin.com/in/www.linkedin.com/in/shox](https://www.linkedin.com/in/shox/)" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://instagram.com/shokh_ruz" target="blank">
