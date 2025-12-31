@@ -23,9 +23,6 @@ coming soon...
 📫 **How to reach me:**
 
 <p align="left">
-<a href="https://twitter.com/eessketitxd" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
 <a href="www.linkedin.com/in/shox" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
