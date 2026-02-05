@@ -16,8 +16,8 @@
 📌 **My Projects:**
 
 | Project | Description | Link |
-|---------|-------------|------|
-https://github.com/Eessketit/UserManagementApp
+|https://github.com/Eessketit/UserManagementApp|Web user management app written in ASP.NET. Login, registration and user management system.|https://usermanagementapp-vjbm.onrender.com/|
+
 ---
 
 📫 **How to reach me:**
