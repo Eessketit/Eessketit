@@ -16,21 +16,7 @@
 📌 **My Projects:**
 
 | Project | Description | Link |
-
-|https://github.com/Eessketit/UserManagementApp | Web user management app written in ASP.NET. Login, registration and user management system. | https://usermanagementapp-vjbm.onrender.com/|
-
----
-
-📫 **How to reach me:**
-
-<p align="left">
-<a href="www.linkedin.com/in/shox" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://instagram.com/shokh_ruz" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-</p>
+| https://github.com/Eessketit/UserManagementApp | Web user management app written in ASP.NET. Login, registration and user management system. | https://usermanagementapp-vjbm.onrender.com/|
 
 ---
 
