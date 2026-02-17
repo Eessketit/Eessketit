@@ -18,6 +18,7 @@
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
 | [UserManagementApp](https://github.com/Eessketit/UserManagementApp) | Web user management app written in ASP.NET. Login, registration and user management system. | https://usermanagementapp-vjbm.onrender.com/ |
+|[MusicApp](https://github.com/Eessketit/MusicApp) | Web music application with table and gallery pages | https://musicapp-10fc.onrender.com |
 
 🛠 **Languages and Tools:**
 
