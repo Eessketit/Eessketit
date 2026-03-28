@@ -19,7 +19,7 @@
 |--------|-------------|-----------|
 | [UserManagementApp](https://github.com/Eessketit/UserManagementApp) | Web user management app written in ASP.NET. Login, registration and user management system. | https://usermanagementapp-vjbm.onrender.com/ |
 |[MusicApp](https://github.com/Eessketit/MusicApp) | Web music application with table and gallery pages | https://musicapp-10fc.onrender.com |
-|[InventoryManagementApp](https://github.com/Eessketit/MusicApp](https://github.com/Eessketit/InventoryManagementApp) | Web application written in ASP.NET Razor for managing inventories and users, integrated with Salesforce, Odoo, Dropbox and PowerAutomate | https://inventorymanagementapp-nh9d.onrender.com/ |
+|[InventoryManagementApp](https://github.com/Eessketit/InventoryManagementApp) | Web application written in ASP.NET Razor for managing inventories and users, integrated with Salesforce, Odoo, Dropbox and PowerAutomate | https://inventorymanagementapp-nh9d.onrender.com/ |
 
 🛠 **Languages and Tools:**
 
