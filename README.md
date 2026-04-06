@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoxruz</h1>
-<h3 align="center">Intern .NET Developer from Uzbekistan</h3>
-
----
-
-🚀 **About Me:**
-
--  Currently doing an **internship as a .NET developer**
--  Learning and improving my skills in **C#, .NET, Linux, Docker**
--  Interested in **backend development, cloud technologies, and automation**
--  Open to collaborate on **real-world projects and open-source**
--  Planning to write articles on **.NET development and learning journey** *(coming soon)*
+<h3 align="center">.NET Developer from Uzbekistan</h3>
 
 ---
 
